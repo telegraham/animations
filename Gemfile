@@ -24,7 +24,3 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-
-# Added at 2017-11-27 20:31:35 -0600 by graham:
-gem "jekyll-assets", "~> 3.0"
